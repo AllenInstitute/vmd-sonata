@@ -1,0 +1,3 @@
+node_type_id location rotation_angle_zaxis pop_name model_type ei population morphology model_processing model_template dynamics_params
+314642645 VisL4 4.082581603 e4Rorb biophysical e v1 Rorb-IRES2-Cre-D_Ai14-168052.03.02.01_491770140_m.swc aibs_perisomatic ctdb:Biophys1.hoc 314642645_fit.json
+487661754 VisL23 2.7288499560000004 e23Cux2 biophysical e v1 Cux2-CreERT2_Ai14-211772.05.02.01_496085150_m.swc aibs_perisomatic ctdb:Biophys1.hoc 487661754_fit.json
